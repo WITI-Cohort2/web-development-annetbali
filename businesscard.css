@@ -1,0 +1,56 @@
+/* Reg No. 2022/DCSE/010/SS --> */
+/* Section III - Question 15 --> */
+.front{
+    background-color: lightblue;
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+.front img{
+    width: 90px;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+.front h4{
+    text-align: center;
+    display: inline;
+    font-size: 18px;
+}
+.front h5{
+    text-align: center;
+    display: inline;
+    font-size: 18px;
+    margin-left: 240px;
+}
+
+.section2{
+    background-color: lightblue;
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.back img{
+    width: 50px;
+}
+.back h4{
+    text-align: center;
+    display: inline;
+    font-size: 18px;
+}
+.section2 h3{
+    text-align: center;
+    margin-left: 250px;
+    display: inline;
+}
+.qrcode img{
+    width: 80px;
+}
+.section2 .icons{
+    width: 40px;
+}
+
